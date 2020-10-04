@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Massey Game Jam Advertisement",
+      "message": {
+        "embeds": [
+          {
+            "title": "Welcome to Massey Game Jam!",
+            "description": "Hello @everyone, I would like to mention that **Massey Game  Jam is back!**\n\nIf you don't already know, Massey Game Jam is a programming event in which you either have 24 hours or up to 1 month to create a computer game. You can either go solo or up to a team of four. After, you can submit your game and potentially win some prizes!\n\nWe created Massey Game Jam to bring together communities that share a love of game making. Whether you love to code, create beautiful game art, or you just want to try something new, Massey Game Jam is perfect to have fun and to bring your ideas to life!",
+            "color": 65533,
+            "fields": [
+              {
+                "name": "Prizes/Rules",
+                "value": "These were our **previous** prizes. The top 3 games will be given prizes\n\n> :first_place: $75 PayPal __AND__ Google Home \n> :second_place: $50 PayPal\n> :third_place: $25 PayPal\n> _Average Submissions: 450+_\n\nAll of our information is in our discord server or in our [documenation](https://docs.google.com/document/d/148rsNEHEj9RmlJV5LtJd2hX1WmUD9SP4IV1o0UCljAc/edit?usp=sharing). They include rules, FAQS, game engine and languages that are allowed, and etc.\n\n> **Our Discord:** It includes free tutorials, assets, giveaways, mentoring, and more!\n",
+                "inline": true
+              },
+              {
+                "name": "Want to become a judge?",
+                "value": "We are recruiting new judges for this **year**!\n\nYou can find the link to our application by [clicking here](https://forms.gle/x5QPNpSDEzpioB21A)\n\n> <:mgj_yes:747911540841381890> If accepted, that's great! We will reach out to you VIA discord and schedule a time for an interview.\n> <:mgj_no:747914005124743310> If not, don't worry! We will be recruiting again soon. So please wait 2 weeks prior to submitting a second application\n\n**NOTICE:** Do not ask about your application. We will contact you if we decide to give you a chance.",
+                "inline": true
+              },
+              {
+                "name": "How do you sign up for the next game jam?",
+                "value": "> To sign up, go to our [website](http://masseygamejam.com/) and click **\"Join the Game\"**"
+              },
+              {
+                "name": "How do you verify yourself?",
+                "value": "> 1) Join the discord server by [clicking here](https://discord.gg/schhSb6).\n> 2) Head over to <#708982589934796830>.\n> 3) Type !verify in the chat and you will be verified and will have access to all our channels and more!"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Advertisement ",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "Tarj Mecwan",
+              "icon_url": "https://cdn.discordapp.com/attachments/735513163679662100/745115834216612000/avatarfinal.thumb.gif.6f7e3f9ad41759828a04b3eb8bfb589c.gif"
+            },
+            "timestamp": "2020-08-26T16:13:00.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}
